@@ -3,3 +3,5 @@ git rebase
 git add -i
 git comit 
 git push
+git status 
+git log
