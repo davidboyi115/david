@@ -1,0 +1,5 @@
+fit fetch --all
+git rebase
+git add -i
+git comit 
+git push
